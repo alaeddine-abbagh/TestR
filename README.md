@@ -2,6 +2,7 @@
 # funa
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/alaeddine-abbagh/TestR.svg?branch=master)](https://travis-ci.com/alaeddine-abbagh/TestR)
 <!-- badges: end -->
 
 This repositry is a trial to submit an R code into github
